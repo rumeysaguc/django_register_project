@@ -9,7 +9,7 @@ Kayıtlar bu veritabanına eklendi.
 
 Kayıt ol butonu home.html sayfasına yönlendirmesi yapıldı.
 Home.html sayfasında bootstrap ile tabloda kişiler listelendi.
-Düzenle ve Sil butonlarını aktifleştirmeye vaktim yetmedi. Django ile ilk deneyimimdi senaryo koşullarından vaktimi yetiştiremediklerim oldu, anlayışınıza sığınıyorum.
+
 
 Veritabanı bilgileri aşağıdaki gibidir.
 DATABASES = {
